@@ -6,7 +6,6 @@ elsif
   true
 else
   false
-
 end
 
 
